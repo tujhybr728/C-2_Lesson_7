@@ -1,0 +1,28 @@
+c:\users\егор\documents\visual studio 2015\Projects\Lesson 5\Lesson 5\bin\Debug\Lesson 5.exe.config
+c:\users\егор\documents\visual studio 2015\Projects\Lesson 5\Lesson 5\bin\Debug\Lesson 5.exe
+c:\users\егор\documents\visual studio 2015\Projects\Lesson 5\Lesson 5\bin\Debug\Lesson 5.pdb
+c:\users\егор\documents\visual studio 2015\Projects\Lesson 5\Lesson 5\obj\Debug\Lesson 5.csprojResolveAssemblyReference.cache
+c:\users\егор\documents\visual studio 2015\Projects\Lesson 5\Lesson 5\obj\Debug\MainWindow.g.cs
+c:\users\егор\documents\visual studio 2015\Projects\Lesson 5\Lesson 5\obj\Debug\App.g.cs
+c:\users\егор\documents\visual studio 2015\Projects\Lesson 5\Lesson 5\obj\Debug\Lesson 5_MarkupCompile.cache
+c:\users\егор\documents\visual studio 2015\Projects\Lesson 5\Lesson 5\obj\Debug\Lesson 5_MarkupCompile.lref
+c:\users\егор\documents\visual studio 2015\Projects\Lesson 5\Lesson 5\obj\Debug\MainWindow.baml
+c:\users\егор\documents\visual studio 2015\Projects\Lesson 5\Lesson 5\obj\Debug\Lesson 5.g.resources
+c:\users\егор\documents\visual studio 2015\Projects\Lesson 5\Lesson 5\obj\Debug\Lesson_5.Properties.Resources.resources
+c:\users\егор\documents\visual studio 2015\Projects\Lesson 5\Lesson 5\obj\Debug\Lesson 5.csproj.GenerateResource.Cache
+c:\users\егор\documents\visual studio 2015\Projects\Lesson 5\Lesson 5\obj\Debug\Lesson 5.exe
+c:\users\егор\documents\visual studio 2015\Projects\Lesson 5\Lesson 5\obj\Debug\Lesson 5.pdb
+C:\Users\Егор\Documents\Git_clone\C-5-DZ\Lesson 5\bin\Debug\Lesson 5.exe.config
+C:\Users\Егор\Documents\Git_clone\C-5-DZ\Lesson 5\obj\Debug\Lesson 5.exe
+C:\Users\Егор\Documents\Git_clone\C-5-DZ\Lesson 5\obj\Debug\Lesson 5.pdb
+C:\Users\Егор\Documents\Git_clone\C-2-Lesson_6\Lesson 5\bin\Debug\Lesson 5.exe.config
+C:\Users\Егор\Documents\Git_clone\C-2-Lesson_6\Lesson 5\obj\Debug\Lesson 5.exe
+C:\Users\Егор\Documents\Git_clone\C-2-Lesson_6\Lesson 5\obj\Debug\Lesson 5.pdb
+C:\Users\Егор\Documents\Git_clone\C-2-Lesson_6\Lesson 5\obj\Debug\Lesson 5.csprojResolveAssemblyReference.cache
+C:\Users\Егор\Documents\Git_clone\C-2-Lesson_6\Lesson 5\obj\Debug\MainWindow.g.cs
+C:\Users\Егор\Documents\Git_clone\C-2-Lesson_6\Lesson 5\obj\Debug\App.g.cs
+C:\Users\Егор\Documents\Git_clone\C-2-Lesson_6\Lesson 5\obj\Debug\Lesson 5_MarkupCompile.cache
+C:\Users\Егор\Documents\Git_clone\C-2-Lesson_6\Lesson 5\obj\Debug\Lesson 5_MarkupCompile.lref
+C:\Users\Егор\Documents\Git_clone\C-2_Lesson_7\Lesson 5\bin\Debug\Lesson 5.exe.config
+C:\Users\Егор\Documents\Git_clone\C-2_Lesson_7\Lesson 5\obj\Debug\Lesson 5.exe
+C:\Users\Егор\Documents\Git_clone\C-2_Lesson_7\Lesson 5\obj\Debug\Lesson 5.pdb
